@@ -4,7 +4,7 @@ J2EE-DefenseMagazine-Hibernate-JSP-Servlet
 In the context of the end-of-studies internship as an web development engineer. Design &amp; Development e-commerce website for the benefit of the Ministry of Defence of Tunisia.
 
 ###### Keywords
-J2EE, JAVA, Eclipse, Hibernate, JSP/Servlet, Javascript, JQuerry, Tomcat 8.0
+J2EE, JAVA, Eclipse, Hibernate, JSP/Servlet, Javascript, JQuerry, Tomcat 
 
 ###### Notes
 I can not show you the source code for security reasons but I took Desktop screenshots.
