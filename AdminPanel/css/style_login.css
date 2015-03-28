@@ -1,0 +1,100 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	background-color: #b6b6b6;
+	background-image: url(../img/img_login/logo.png);
+	background-repeat: no-repeat;
+	background-position: 370px 10px;
+}
+#login_form {
+	width: 508px;
+	height: 272px;
+	background:  url(../img/img_login/loginbox_bg.png) no-repeat 0 0;
+	margin: 230px auto 0;
+	padding-top: 1em;
+	
+}
+h1,h2,h3,h4,h5 {
+	margin-top: 0;
+	font-family: arial black, arial;
+	text-align: center;
+}
+
+.input{
+width: 223px;
+background: url(../img/img_login/input.png) no-repeat ;
+}
+input[type=text], input[type=password] {
+	width: 200px;
+	margin-bottom: 10px;
+	margin-left:5px;
+	padding-top: 5px;
+	border:1px;
+}
+
+ input[type=submit]{
+	width: 73px;
+	height: 29px;
+	background: url(../img/img_login/valider.png) no-repeat;
+	border: none;
+	text-indent: -3000px;
+	background-repeat: no-repeat;
+	cursor:pointer;
+	
+
+}
+
+ input[type=submit]:hover{
+	background: url(../img/img_login/valider_hover.png) no-repeat;
+	cursor: pointer;
+}
+
+.envoi input[type=submit]{
+	width: 73px;
+	height: 29px;
+	background: url(../img/img_login/envoi.png) no-repeat;
+	border: none;
+	text-indent: -3000px;
+	background-repeat: no-repeat;
+	cursor:pointer;
+	
+
+}
+
+.envoi input[type=submit]:hover{
+	background: url(../img/img_login/envoi_hover.png) no-repeat;
+	cursor: pointer;
+}
+
+
+
+a{
+	font-size: 12px;
+	text-decoration: none;
+	color: #000000;
+}
+
+a:hover{
+	color: #FFF;
+}
+
+.oublie {
+	float: right;
+	margin-top: 10px;
+}
+
+
+
+
+
+/* Validation error messages */
+
+
+/* FOR FUN */
+
+h1{
+	text-shadow: 1px 1px 0 white;
+}
+
+/* Not necessary. Just the "tutorial created by" stuff at the bottom */
